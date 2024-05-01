@@ -1,6 +1,7 @@
-# exporting local XLSX file to github project as CSV file for more convenient data prep
+# i am exporting local XLSX file to github project as CSV file for more convenient data prep
 # file location is specific to this run
-
+# an alternative option when updating file is to simply upload new/refreshed data on the data folder as needed
+# note that if an enterprise datalake/ database connection is available, then there is no need for this step since the data can be refreshed automatically :)
 library(readxl)
 library(readr)
 metrics <- read_excel("~/Desktop/Exam - Analyst.xlsx", 

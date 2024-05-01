@@ -1,3 +1,6 @@
+# exporting local XLSX file to github project as CSV file for more convenient data prep
+# file location is specific to this run
+
 library(readxl)
 library(readr)
 metrics <- read_excel("~/Desktop/Exam - Analyst.xlsx", 

@@ -1,7 +1,4 @@
 # Hotel Performance Analysis
-## Important Note
-This project is done for assessment purposes.
-
 ## Overview
 The Hotel Performance Analysis project aims to analyze the revenue and occupancy trends of five hotels (EXIUS, GCBJN, ICWAS, PHEGA, and UKPIL) over a period from 2019 to 2021. The analysis includes forecasting revenue and occupancy for each hotel to provide insights and recommendations for strategic decision-making.
 
